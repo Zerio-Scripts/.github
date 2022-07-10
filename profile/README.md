@@ -22,7 +22,7 @@ as possible and sometimes even for completely free!
 ## Our projects
 <div>
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995730158172516532/zerio-bcs-heist.png"></a>
-  <a href=""><img width="40%" style="margin-left:10%;" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924386209852/zerio-proximityprompt.png"></a>
+  <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924386209852/zerio-proximityprompt.png"></a>
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924746911784/zerio-progressbar.png"></a>
-  <a href=""><img width="40%" style="margin-left:10%;" src="https://cdn.discordapp.com/attachments/934470871333105674/995729925275402342/zerio-jobcenter.png"></a>
+  <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729925275402342/zerio-jobcenter.png"></a>
 </div>
