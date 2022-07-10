@@ -1,12 +1,24 @@
-## Hi there 👋
+![Zerio Scripts Banner](https://user-images.githubusercontent.com/54480523/178153052-8e4b550c-9b2b-4d3d-9f44-083fe9cf6552.jpg)
 
-<!--
+## Hello! Welcome to the official Profile of Zerio-Scripts ran by Zerio.
 
-**Here are some ideas to get you started:**
+## 🤔 About us
+Zerio-Scripts was founded back in January 2022 so we are relatively new.
+**Although** our developers have had years of experience in FiveM.
+We strive to provide premium and high quality scripts for as cheap 
+as possible and sometimes even for completely free!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Store
+https://store.zerio-scripts.com/
+
+## Documentation
+https://docs.zerio-scripts.com/
+
+## Our projects
+
+
+## Social Media
+[![Discord](https://img.shields.io/discord/931629164656734238?style=for-the-badge&label=Discord%20Server)](http://discord.zerio-scripts.com)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com)
+[![Website](https://img.shields.io/website?label=store.zerio-scripts.com&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://store.zerio-scripts.com)
