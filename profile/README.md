@@ -26,3 +26,11 @@ as possible and sometimes even for completely free!
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924746911784/zerio-progressbar.png"></a>
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729925275402342/zerio-jobcenter.png"></a>
 </div>
+
+<style>
+  div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+</style>
