@@ -20,7 +20,7 @@ as possible and sometimes even for completely free!
 [![Website](https://img.shields.io/website?label=docs.zerio-scripts.com&style=for-the-badge&url=https%3A%2F%2Fdocs.zerio-scripts.com)](https://docs.zerio-scripts.com)
 
 ## Our projects
-<div>
+<div align="center">
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995730158172516532/zerio-bcs-heist.png"></a>
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924386209852/zerio-proximityprompt.png"></a>
   <a href=""><img width="40%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924746911784/zerio-progressbar.png"></a>
