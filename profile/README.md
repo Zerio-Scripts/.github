@@ -4,7 +4,6 @@
 
 [![Discord](https://img.shields.io/discord/931629164656734238?style=for-the-badge&label=Discord%20Server)](http://discord.zerio-scripts.com)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/c/Zerio)
-[![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com)
 
 ## Hello! Welcome to the official Profile of Zerio-Scripts ran by Zerio.
 
@@ -21,4 +20,7 @@ as possible and sometimes even for completely free!
 [![Website](https://img.shields.io/website?label=docs.zerio-scripts.com&style=for-the-badge&url=https%3A%2F%2Fdocs.zerio-scripts.com)](https://docs.zerio-scripts.com)
 
 ## Our projects
-
+<img src="https://cdn.discordapp.com/attachments/934470871333105674/995730158172516532/zerio-bcs-heist.png">
+<img src="https://cdn.discordapp.com/attachments/934470871333105674/995729924386209852/zerio-proximityprompt.png">
+<img src="https://cdn.discordapp.com/attachments/934470871333105674/995729924746911784/zerio-progressbar.png">
+<img src="https://cdn.discordapp.com/attachments/934470871333105674/995729925275402342/zerio-jobcenter.png">
