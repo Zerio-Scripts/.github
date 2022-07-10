@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/54480523/178153052-8e4b550c-9b2b-4d3d-9f44-083fe9cf6552.jpg" width="50%" style="margin-left:50%;">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54480523/178153052-8e4b550c-9b2b-4d3d-9f44-083fe9cf6552.jpg" width="50%">
+</p>
 
 [![Discord](https://img.shields.io/discord/931629164656734238?style=for-the-badge&label=Discord%20Server)](http://discord.zerio-scripts.com)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/c/Zerio)
