@@ -19,7 +19,6 @@ https://docs.zerio-scripts.com/
 
 ## Social Media
 [![Discord](https://img.shields.io/discord/931629164656734238?style=for-the-badge&label=Discord%20Server)](http://discord.zerio-scripts.com)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)][https://youtube.com/c/Zerio]
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCPXxRNLLgvNpjvGHHMMYxmQ?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/c/Zerio)
 [![Website](https://img.shields.io/website?label=zerio-scripts.com&url=https%3A%2F%2Fzerio-scripts.com&style=for-the-badge)](https://zerio-scripts.com)
 [![Website](https://img.shields.io/website?label=store.zerio-scripts.com&style=for-the-badge&url=https%3A%2F%2Fstore.zerio-scripts.com)](https://store.zerio-scripts.com)
