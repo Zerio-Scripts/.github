@@ -24,6 +24,6 @@ as possible and sometimes even for completely free!
   <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-bcs-heist"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/995730158172516532/zerio-bcs-heist.png"></a>
   <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-proximityprompt"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924386209852/zerio-proximityprompt.png"></a>
   <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-progressbars"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729924746911784/zerio-progressbar.png"></a>
-  <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-activitybox"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/998729033695121468/zerio-activitytext.png"></a>
+  <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-activitytext"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/998729033695121468/zerio-activitytext.png"></a>
   <a target="_blank" href="https://github.com/Zerio-Scripts/zerio-jobcenter"><img width="45%" src="https://cdn.discordapp.com/attachments/934470871333105674/995729925275402342/zerio-jobcenter.png"></a>
 </div>
